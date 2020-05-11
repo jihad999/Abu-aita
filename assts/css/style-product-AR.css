@@ -1,0 +1,157 @@
+html , body{
+  padding:0px;
+  margin:0px;
+
+font-family: 'Amiri', serif;
+font-family: 'Tajawal', sans-serif;
+}
+
+
+/* main */
+main .hero{
+	text-align: center;
+	margin-top: 100px;
+    margin-bottom: 30px;
+
+}
+
+.h1-main-hero{
+	font-size: 35px;
+	font-weight: 650;
+	color: #212529;
+	margin-top: 20px;
+}
+
+.p-main-hero{
+ max-width:895px;
+ margin:0 auto;
+ font-size: 25px;
+ color: #7c7c8d;
+}
+.a-p-hero-main
+{
+	color: #ff5500;
+}
+
+
+.title-span-img{
+		color: #ff5500;
+		font-weight: 500;
+}
+
+.h2-main-img{
+	font-weight: 700;
+	color: #343546;
+}
+
+.p-main-img{
+ font-size: 20px;
+ color: #7c7c8d;
+}
+
+.p-main-img a{
+	color:#ff5500; 
+}
+
+.a-main-img{
+	color: #ff5500 ;
+}
+
+.row-margin-bottom{
+	margin-bottom: 100px;
+}
+
+.smallP-main-img{
+	font-size: 14px;
+	color: #7c7c8d;
+
+}
+
+
+
+.des-img{
+	border: 1px solid red;
+	background-color: #464159
+
+}
+
+.p-main-img{
+	color: white;
+	direction: rtl;
+	text-align: center;
+}
+
+.h2-main-img{
+	color: yellow;
+	margin-top: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+	    font-size: 3rem;
+
+
+}
+.kh-img{
+  border: 1px solid white;
+}
+
+
+.h1-main-hero{
+	color: red;
+	font-size: 55px;
+	font-weight: 800;
+}
+.hero{
+	margin-bottom: 80px !important;
+	margin-top: 80px !important;
+}
+
+.card-title{
+	color: white;
+	background: red;
+	height: 50px;
+	text-align: center;
+	padding: 5px;
+	position: absolute;
+	font-size: 1.2rem !important;
+
+}
+
+.card-title2{
+	color: white;
+	background: red;
+	height: 60px;
+	text-align: center;
+     font-size: 19px;
+	position: absolute;
+	width: 100%;
+	top: 238px;
+	padding-top: 10px;
+	direction: rtl;
+	font-size: 1.2rem !important;
+
+}
+
+
+
+.card{
+	    border: 1px solid red !important;
+	    height: 290px !important;
+	    position: relative;
+	    background: #e9ecef;
+}
+
+.card img {
+    position: relative;
+    top: 45px;
+    height: 240px !important;
+}
+
+.kh-img-2{
+	position: relative !important;
+    top: -2px !important;
+    height: 240px !important;
+}
+
+/* end main */
+
+

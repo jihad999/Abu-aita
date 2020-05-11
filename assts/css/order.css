@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
+}
+main {
+    direction: rtl;
+    text-align: right;
+}
+.col.hero-inner.wow.bounceInUp{
+    text-align: center;
+}
+.h1-main-hero {
+    color: red;
+    font-size: 55px;
+    font-weight: 800;
+}
+.section1 {
+    margin-top: 50px;
+}
+
+.section1 .right form label {
+    font-weight: 600;
+}
+.section1 .col-md-12.col-12 {
+    padding: 0 40px;
+}
+
+.section1 .right form input.big {
+    height: 150px;
+}
+
+.section1 .right form input#formGroupExampleInput.submit {
+    margin: 0 auto;
+    width: 120px;
+    height: 45px;
+    border-radius: 5px;
+    background: #032e66;
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+}
+.section1 .right form input#formGroupExampleInput.submit:hover {
+    background: #032ECA;
+}
+
+.col-10.border.border-info.py-3 {
+    margin: 0 auto;
+}
+input.form-control.submit {
+    width: 20%;
+    margin: 0 auto;
+    background: midnightblue;
+    color: #fff;
+    font-weight: 700;
+}
+input.form-control.submit:hover {
+    background: #464159;
+    color: #fff;
+}
+
+@media(max-width:500px){
+    .h1-main-hero {
+    font-size: 30px;
+}
+    .section1 .col-md-12.col-12 {
+    padding: 0;
+}
+    .section1 .right form label {
+        font-size: 15px;
+}
+    .form-control {
+    height: 30px;
+    font-size: 13px;
+}
+    input.form-control.submit {
+    width: 25%;
+}
+}

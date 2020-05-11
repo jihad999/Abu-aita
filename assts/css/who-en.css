@@ -1,0 +1,25 @@
+main.kh-marginTop {
+    direction: rtl;
+}
+.kh-div-text {
+    text-align: left;
+    direction: ltr;
+}
+.kh-h1 {
+    text-align: left;
+}
+.kh1-h1{
+    text-align: left;
+}
+.kh-text2{
+    direction: ltr;
+    text-align: left;
+}
+.kh-ul-text {
+    text-align: left;
+    direction: ltr;
+}
+.kh-div2-color {
+    margin-top: 1px;
+    height: 498px;
+}

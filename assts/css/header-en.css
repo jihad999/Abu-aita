@@ -1,0 +1,6 @@
+header {
+    direction: rtl;
+}
+.col-lg-6.col-12.text-right {
+    text-align: left !important;
+}

@@ -1,0 +1,8 @@
+main {
+    direction: ltr;
+    text-align: left;
+}
+.section1 .col-md-6.col-12.right {
+    border-right: 3px solid;
+    border-left: none;
+}

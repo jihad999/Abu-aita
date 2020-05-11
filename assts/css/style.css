@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    font-family: 'Amiri', serif;
+    font-family: 'Tajawal', sans-serif;
+}
+hr {
+    border: 1px solid;
+    margin: 0 auto;
+    width: 30%;
+}
+.carousel-control-next, .carousel-control-prev{
+    top: 85%;
+    background: black;
+    width: 4%;
+    height: 10%;
+}
+.carousel-control-prev {
+    left: 85%;
+    
+}
+.carousel-control-next{
+    right: 5%;
+}
+/*************************/
+.section1{
+    text-align: right;
+    padding: 30px;
+}
+.section1 h2 {
+    width: max-content;
+    height: 55px;
+    border-bottom: 3px solid;
+    margin-bottom: 30px;
+    font-size: 34px;
+    font-weight: 800;
+    color: #464159;
+}
+.section1 p {
+    font-size: 21px;
+    font-weight: 800;
+}
+/**********************/
+.section2{
+    text-align: right;
+    padding: 30px;
+}
+.section2 .row{
+    margin: 0;
+}
+.content-img .img-right{
+    display: inline-block;
+    text-align: left;
+}
+.content-img .img-left{
+    display: inline-block;
+}
+.section2 img{
+    width: 65%;
+    display: inline-block;
+    border-radius: 25px;
+}
+.section2 h2 {
+    width: max-content;
+    height: 55px;
+    border-bottom: 3px solid;
+    margin-bottom: 30px;
+    font-size: 34px;
+    font-weight: 800;
+    color: #464159;
+}
+.section2 p {
+    font-size: 21px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 20px;
+}
+/************************/
+.section3{
+    text-align: right;
+    padding: 30px;
+}
+.section3 .row{
+    margin: 0
+}
+.section3  h2 {
+    width: max-content;
+    height: 55px;
+    border-bottom: 3px solid;
+    margin-bottom: 30px;
+    font-size: 34px;
+    margin-right: 15px;
+    font-weight: 800;
+    color: #464159;
+}
+.section3 .four-images img {
+    border-radius: 5%;
+}
+.section4{
+    text-align: right;
+    padding: 30px;
+}
+.section4 .row{
+    margin: 0
+}
+.section4  h2 {
+    width: max-content;
+    height: 55px;
+    border-bottom: 3px solid;
+    margin-bottom: 30px;
+    font-size: 34px;
+    margin-right: 15px;
+    font-weight: 800;
+}
+.section4 .col-md-4.col-6 {
+    padding: 0 90px;
+    margin-bottom: 30px;
+}
+.section3 .four-images img {
+    border: 2px solid #d3d3d3;
+}
+@media(max-width: 500px) and (min-width: 360px){
+    .section3 .col-md-3.col-6 {
+    margin-bottom: 10px;
+    }
+    .row.content-img {
+    text-align: center !important;
+    }
+    .content-img .img-right {
+    text-align: center !important;
+        margin-bottom: 10px;
+    }
+    .section4 .col-md-4.col-6 {
+    padding: 0 15px;
+    }
+    
+}

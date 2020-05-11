@@ -1,0 +1,18 @@
+main {
+    direction: ltr;
+}
+.section1 {
+    text-align: left;
+}
+.wow.fadeInRightBig.img-right.col-md-6.col-12 {
+    text-align: right;
+}
+.wow.fadeInLeftBig.img-left.col-md-6.col-12 {
+    text-align: left;
+}
+.carousel-control-next{
+    right:  85%;
+}
+.carousel-control-prev{
+    left:  5%;
+}

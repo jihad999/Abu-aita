@@ -1,0 +1,111 @@
+footer{
+    direction: rtl;
+    text-align: right;
+    background-color:#464159 ;
+    color: #fff;
+    position: relative;
+}
+footer h6 {
+     text-align: right;
+     margin-top: 20px;
+
+}
+
+
+footer p{
+    text-align: right;
+    margin-top: 10px;
+
+}
+footer p a{
+    font-size: 18px;
+    font-weight: 800;
+    color: #fff;
+    text-decoration: underline;
+}
+footer p a:hover{
+    color:  #8bbabb;
+}
+
+footer h6.text-uppercase.font-weight-bold {
+    width: max-content;
+    height: 30px;
+    border-bottom: 3px solid;
+    font-size: 20px;
+    margin-bottom: 30px;
+
+}
+.col-md-4.col-lg-3.col-xl-3.mx-auto.mb-md-0.mb-4 {
+    text-align: right;
+}
+footer .div{
+    width: 345px;
+}
+footer .div p {
+    display: inline-block;
+    width: 350px;
+    padding-right: 20px;
+    font-size: 14px;
+}
+footer .div i {
+    margin: 0 !important;
+}
+footer a i {
+   font-size: 22px;
+   color: #fff;
+}
+footer .col-md-12.col-lg-12.text-center.text-md-center a:hover {
+    text-decoration: none;
+}
+footer h5{
+    color: #fff;
+}
+.row.d-flex.align-items-center.text-center {
+    height: 60px;
+}
+.col-md-12.col-lg-12.text-center.text-md-center a {
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background: radial-gradient(black, transparent);
+    padding-top: 11px;
+}
+footer .col-md-12.col-lg-12.text-center.text-md-center a i {
+    margin: 0 !important;
+}
+footer i.fab.fa-facebook-f.white-text.mr-4:hover {
+    color: #1877f2;
+}
+footer i.fab.fa-twitter.white-text.mr-4:hover {
+    color: #2aa9e0;
+}
+footer i.fab.fa-instagram.white-text.mr-4:hover {
+    color: #ff6d45;
+}
+footer i.fab.fa-youtube.white-text.mr-4:hover {
+    color: #f30600;
+}
+footer i.fab.fa-soundcloud.white-text.mr-4:hover {
+    color: #f89810;
+}
+footer .col-md-4.col-lg-3.col-xl-3.mx-auto.mb-md-0.mb-4 i{
+    margin: 0 !important;
+}
+footer .col-md-4.col-lg-3.col-xl-3.mx-auto.mb-md-0.mb-4 p {
+    width: 325px;
+    display: inline-block;
+    padding: 0 5px;
+}
+footer .top i.top.fas.fa-chevron-up {
+    position: absolute;
+    top: -20px;
+    left: 175px;
+    background: #ffb400;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+    padding-top: 7px;
+}

@@ -1,0 +1,99 @@
+div#section-open-source {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.h1-main-hero {
+    color: red;
+    font-size: 55px;
+    font-weight: 800;
+}
+.kh-div-text{
+   direction: rtl;
+   text-align: right;
+
+
+}
+.kh-div-vedio{
+	padding-top: 65px !important;
+}
+
+.kh-marginTop{
+	margin-top: 50px !important;
+}
+.kh-vedio{
+	border-radius: 10px;
+	border: 1px solid white;
+	width: 100%;
+	height: 100%;
+
+}
+
+.kh-h1{
+	font-size: 30px;
+	font-weight: 800;
+	text-align: right;
+}
+
+.kh-text{
+	font-size: 17px;
+}
+
+.kh-span-sec1{
+	color:#464159;
+	font-weight: 800
+}
+.kh-ul-text{
+	direction: rtl;
+	text-align: right;
+}
+.kh-text2{
+	direction: rtl;
+	text-align: right;
+	margin-top: 22px !important;
+	color: white;
+}
+
+.kh-div-color{
+		 border: 1px solid white;
+		 background-color:#464159;
+
+
+
+
+}
+
+
+.kh-div2-color{
+		background-color:#7c7b80;
+		background-color:#5fad85;
+
+}
+
+.kh-ul-text{
+ padding-right:20px !important;
+ 	font-size: 17px;
+ 	color: white;
+
+}
+
+.kh-ul-text > li{
+	margin-bottom: 26px;
+}
+
+.kh1-h1{
+	color: white;
+	font-size: 30px;
+	font-weight: 800;
+	text-align: right;
+	margin-top: 10px;
+	margin-bottom: 30px;
+
+}
+
+
+@media(max-width:1000px){
+	.kh-h1{
+	text-align: center;
+}
+    
+}
